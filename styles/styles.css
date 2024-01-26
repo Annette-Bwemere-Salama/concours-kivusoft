@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+}
+body {
+    font-family: Arial, sans-serif;
+}
+.sidebar {
+    width: 200px;
+    height: 100vh;
+    position: fixed;
+    color: #fff;
+    padding: 20px;
+    background-color: #551a55;
+}
+.main-content {
+    margin-left: 220px;
+    padding: 20px;
+}
+.sidebar ul {
+    list-style-type: none;
+    padding: 0;
+}
+.sidebar ul li {
+    margin-bottom: 10px;
+}
+.sidebar ul li i {
+    margin-right: 10px;
+}
