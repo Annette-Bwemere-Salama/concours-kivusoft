@@ -80,3 +80,9 @@ h2,h4{
     gap: 5rem;
 
 }
+table, th, tbody{
+    border: 1px solid #ccc;
+}
+table{
+    border-radius: 5px;
+}
